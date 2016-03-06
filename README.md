@@ -3,7 +3,7 @@
 
 This work performs de data manipulation and plotting of some key variables in the "Individual household electric power consumption" Data Set available in the UCI ML repository in this [link](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption)
 
-**The data is not present in the data folder since it is a massive data set, so please download it from the link just provided and place it in your data folder. **
+**The data is not present in the data folder since it is a massive data set, so please download it from the link just provided and place it in your data folder.**
 
 In this work, we focus on the energy consumption during two specific days, 2007 - February 1st and 2nd.
 
